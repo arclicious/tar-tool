@@ -3,8 +3,8 @@ Lightweight terminal tar archive extractor written in Python.
 
 # Requirements:
 
-* Python 3.6 or newer
-* The latest version of the Tar package to be installed on computer
+* Python 3.6 or newer.
+* The latest version of the Tar package to be installed on Linux box.
 * The figlet package to be installed.
 
 # Installation guide
@@ -46,4 +46,4 @@ You can quickly and easily run tar-tool by cd-ing into the directory that tar.py
 
 into Terminal.
 
-Choose one of the choices that are shown to you when tar-tool is initialized, and you're pretty much done!
+Choose one of the choices that are shown to you when tar-tool is ran, and you're pretty much done!
