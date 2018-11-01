@@ -40,10 +40,10 @@ Terminal tar archive extractor written in Python.
 
 # Running tar-tool
 
-Running tar tool is very easy and quick! By cd-ing into the directory that tar.py is located and then typing:
+You can quickly and easily run tar-tool by cd-ing into the directory that tar.py is located and then typing:
 
           python3 tar.py
 
-into Terminal runs tar-tool!
+into Terminal.
 
 Choose one of the choices that are shown to you when tar-tool is initialized, and you're pretty much done!
