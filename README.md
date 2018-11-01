@@ -1,5 +1,5 @@
 # tar-tool
-Terminal tar archive extractor written in Python.
+Lightweight terminal tar archive extractor written in Python. 
 
 # Requirements:
 
