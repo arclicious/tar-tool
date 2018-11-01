@@ -11,17 +11,17 @@ Terminal tar archive extractor written in Python.
 
 1. Make sure that you have the latest version of the Tar utility installed by typing:
 
-     sudo apt-get update
+           sudo apt-get update
 
    into Terminal.
 
 2. Make sure that you've also got Python3.6 or newer installed by typing:
 
-     sudo apt-get install python3
+          sudo apt-get install python3
 
 3. Also, make sure that you've got figlet installed by typing:
 
-     sudo apt-get install figlet
+          sudo apt-get install figlet
 
 
 into Terminal.
@@ -42,7 +42,7 @@ into Terminal.
 
 Running tar tool is very easy and quick! By cd-ing into the directory that tar.py is located and then typing:
 
-     python3 tar.py
+          python3 tar.py
 
 into Terminal runs tar-tool!
 
