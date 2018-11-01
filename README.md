@@ -24,7 +24,7 @@ Terminal tar archive extractor written in Python.
           sudo apt-get install figlet
 
 
-into Terminal.
+   into Terminal.
 
 
 3. Git clone the repository.
