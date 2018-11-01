@@ -13,7 +13,7 @@ Terminal tar archive extractor written in Python.
 
      sudo apt-get update
 
-into Terminal.
+   into Terminal.
 
 2. Make sure that you've also got Python3.6 or newer installed by typing:
 
