@@ -9,7 +9,7 @@ Lightweight terminal tar archive extractor written in Python.
 
 # Installation guide
 
-1. Make sure that you have the latest version of the Tar utility installed by typing:
+1. Make sure that you have the latest version of the Tar package installed by typing:
 
            sudo apt-get update
 
