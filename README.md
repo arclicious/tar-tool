@@ -18,6 +18,7 @@ Lightweight terminal tar archive extractor written in Python.
 2. Make sure that you've also got Python3.6 or newer installed by typing:
 
           sudo apt-get install python3
+          
    into Terminal.
 
 3. Also, make sure that you've got figlet installed by typing:
@@ -29,9 +30,11 @@ Lightweight terminal tar archive extractor written in Python.
 
 
 3. Clone the repository by typing:
-         `git clone https://github.com/arclicious/tar-tool.git
+         
+         git clone https://github.com/arclicious/tar-tool.git
 
-
+   into Terminal.
+   
 4. Open the downloaded folder with your file manager of choice.
 
 
