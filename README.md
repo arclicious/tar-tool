@@ -15,7 +15,7 @@ Lightweight terminal tar archive extractor written in Python.
 
    into Terminal.
 
-2. Make sure that you've also got Python3.6 or newer installed by typing:
+2. Make sure that you've also got **Python3.6** or newer installed by typing:
 
           sudo apt-get install python3
           
@@ -38,17 +38,19 @@ Lightweight terminal tar archive extractor written in Python.
 4. Open the downloaded folder with your file manager of choice.
 
 
-5. Copy the tar.py file to the folder where all of your downloads are stored (eg. /home/USERNAME/Downloads)
+5. Copy the tar.py file located in the cloned repository folder to the folder where all of your downloads are stored (eg. /home/USERNAME/Downloads)
 
 
 6. You're all set!
 
 # Running tar-tool
 
-You can quickly and easily run tar-tool by cd-ing into the directory that tar.py is located and then typing:
+You can quickly and easily run tar-tool by cd-ing into your download directory (which tar.py is located in) and then typing:
 
           python3 tar.py
 
 into Terminal.
 
-Choose one of the choices that are shown to you when tar-tool is ran, and you're pretty much done!
+Choose one of the choices that are shown to you when tar-tool is ran, and you're done!
+
+**Repeat this process every time you download .tar archives you want to install.
