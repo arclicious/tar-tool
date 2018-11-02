@@ -28,7 +28,8 @@ Lightweight terminal tar archive extractor written in Python.
    into Terminal.
 
 
-3. Git clone the repository.
+3. Clone the repository by typing:
+         `git clone https://github.com/arclicious/tar-tool.git
 
 
 4. Open the downloaded folder with your file manager of choice.
