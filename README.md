@@ -4,7 +4,7 @@ Lightweight terminal tar archive extractor written in Python.
 # Requirements:
 
 * Python 3.6 or newer.
-* The latest version of the Tar package to be installed on your Linux box.
+* The latest version of the Tar package to be installed on target Linux box.
 * The figlet package to be installed.
 
 # Installation guide
