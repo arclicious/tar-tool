@@ -6,7 +6,7 @@ os.system("clear")
 already_done = 0
 print("[!] To use tar-tool you must have tar and figlet installed.")
 try:
-    os.system("figlet -c -f slant Tar Tool 2.5-snapshotV1")
+    os.system("figlet -c -f slant Tar Tool 2.5-premaster")
 except:
     sys.exit()
 def exit(msg):
@@ -50,7 +50,7 @@ def main():
 try:
 	if already_done == 0:
 		raw_input("Please press return to continue.") # If 3.X python is being used, will cause error and move onto except
-		print("Detected 2.X version of Python") # Will be removed in master branch.
+		#print("Detected 2.X version of Python") # Will be removed in master branch.
 		already_done = 1
 		main() 
 	else:
@@ -60,7 +60,7 @@ except:
 	if already_done == 0:
 		raw_input = input
 		input("Please press return to continue.")
-		print("Detected 3.X version of Python") # Will be removed in master branch.
+		#print("Detected 3.X version of Python") # Will be removed in master branch.
 		already_done = 1
 		main()
 	else:
