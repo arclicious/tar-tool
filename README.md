@@ -1,9 +1,9 @@
-# tar-tool
+﻿# tar-tool (pre-master branch)
 Lightweight terminal tar archive extractor written in Python. 
-
+**The pre-master branch is all about bug-testing and getting the new version of tar-tool ready for the master branch, and is more stable than the snapshot branch.**
 # Requirements:
 
-* Python 3.6 or newer.
+* Python 2 or newer.
 * The latest version of the Tar package to be installed on target Linux box.
 * The figlet package to be installed.
 
@@ -15,9 +15,9 @@ Lightweight terminal tar archive extractor written in Python.
 
    into Terminal.
 
-2. Make sure that you've also got **Python3.6** or newer installed by typing:
+2. Make sure that you've also got **Python 2** or newer installed by typing:
 
-          sudo apt-get install python3
+          sudo apt-get install python2
           
    into Terminal.
 
