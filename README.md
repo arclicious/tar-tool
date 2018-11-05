@@ -1,6 +1,6 @@
-﻿# tar-tool (pre-master branch)
+﻿# tar-tool
 Lightweight terminal tar archive extractor written in Python. 
-**The pre-master branch is all about bug-testing and getting the new version of tar-tool ready for the master branch, and is more stable than the snapshot branch.**
+
 # Requirements:
 
 * Python 2 or newer.
