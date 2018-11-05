@@ -1,6 +1,6 @@
-# tar-tool
+# tar-tool (snapshot branch)
 Lightweight terminal tar archive extractor written in Python. 
-
+**The snapshot branch is unstable and is possibly full of bugs, so I recommend using it only for testing upcoming versions of tar-tool.**
 # Requirements:
 
 * Python 3.6 or newer.
