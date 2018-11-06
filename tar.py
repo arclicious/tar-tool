@@ -9,6 +9,7 @@ try:
     os.system("figlet -c -f slant Tar Tool 2.6-snapshotV2")
 except:
     sys.exit()
+	
 def exit(msg):
 	sys.exit(msg)
 
