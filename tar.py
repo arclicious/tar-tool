@@ -6,7 +6,7 @@ os.system("clear")
 already_done = 0
 print("[!] To use tar-tool you must have tar and figlet installed.")
 try:
-    os.system("figlet -c -f slant Tar Tool 2.6-snapshotV1")
+    os.system("figlet -c -f slant Tar Tool 2.6-snapshotV2")
 except:
     sys.exit()
 def exit(msg):
@@ -33,13 +33,31 @@ def main():
 		elif inp == "2":
 			inp = raw_input("1. What is the name of the file that you would like to extract (without .tar.bz2 extension)?")
 			print("[*] Extracting file...")
-			os.system("tar jxf {}{}".format(inp,".tar.bz2")
+			os.system("tar jxf {}{}".format(inp,".tar.bz2"))
 			print("[*] Extracted file!")
 			sys.exit()
 		elif inp == "3":
 			inp = raw_input("1. What is the name of the file that you would like to extract (without .tar.xz extension)?")
 			print("[*] Extracting file...")
-			os.system("tar -xJvf {}{}".format(inp,".tar.xz")
+			os.system("tar -xJvf {}{}".format(inp,".tar.xz"))
+			print("[*] Extracted file!")
+			sys.exit()
+		elif inp == "4":
+			inp = raw_input("1. What is the name of the file that you would like to extract (without .tgz extension)?")
+			print("[*] Extracting file...")			
+			os.system("tar -xzvf {}{}".format(inp,".tgz"))
+			print("[*] Extracted file!")
+			sys.exit()
+		elif inp == "5":
+			inp = raw_input("1. What is the name of the file that you would like to extract (without .bz2 extension)?")
+			print("[*] Extracting file...")
+			os.system("tar jxf {}{}".format(inp,".bz2"))
+			print("[*] Extracted file!")
+			sys.exit()
+		elif inp == "6":
+			inp = raw_input("1. What is the name of the file that you would like to extract (without .txz extension)?")
+			print("[*] Extracting file...")
+			os.system("tar -xJvf {}{}".format(inp,".txz"))
 			print("[*] Extracted file!")
 			sys.exit()
 		else:
