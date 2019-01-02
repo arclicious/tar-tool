@@ -1,5 +1,6 @@
 ﻿# tar-tool
-Lightweight terminal tar archive extractor written in Python. 
+Lightweight terminal tar archive extractor written in Python for Linux.
+[Click here](https://github.com/arclicious/tar-tool-fb) to see a Windows-compatible version of tar-tool I made which is named tar-tool-fb.
 
 # Requirements:
 
